@@ -1,0 +1,18 @@
+[submodule "repo_with_many_submodules"]
+	path = repo_with_many_submodules
+	url = https://github.com/rgreenblatt/repo_with_many_submodules
+[submodule "dir/repo_with_many_submodules"]
+	path = dir/repo_with_many_submodules
+	url = git@github.com:rgreenblatt/repo_with_single_submodule.git
+[submodule "graphql-schema"]
+	path = graphql-schema
+	url = https://github.com/octokit/graphql-schema
+[submodule "dir/graphql-schema"]
+	path = dir/graphql-schema
+	url = git@github.com:octokit/graphql-schema
+[submodule "dir/nested/graphql-schema"]
+	path = dir/nested/graphql-schema
+	url = https://github.com/octokit/graphql-schema
+[submodule "numpy"]
+	path = numpy
+	url = https://github.com/numpy/numpy
