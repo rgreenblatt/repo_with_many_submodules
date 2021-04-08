@@ -1,9 +1,9 @@
 [submodule "repo_with_many_submodules"]
 	path = repo_with_many_submodules
-	url = https://github.com/rgreenblatt/repo_with_many_submodules
+	url = https://github.com/numpy/numpy
 [submodule "dir/repo_with_many_submodules"]
 	path = dir/repo_with_many_submodules
-	url = git@github.com:rgreenblatt/repo_with_single_submodule.git
+	url = https://github.com/numpy/numpy
 [submodule "graphql-schema"]
 	path = graphql-schema
 	url = https://github.com/octokit/graphql-schema
